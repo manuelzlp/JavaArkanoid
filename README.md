@@ -9,3 +9,5 @@ Inside mon/game/, I wrote some libraries to manage sprites, scroll, collisions a
 To run the game on Windows, just run Play.bat
 
 Otherwise, go to ./compiled/ and run the command java App
+
+Video: https://youtu.be/Kf25XBnpSAA
